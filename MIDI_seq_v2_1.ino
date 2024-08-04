@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 #include "config.h"
 #include <MIDI.h>
 #include "oled.h"
